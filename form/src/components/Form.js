@@ -36,7 +36,6 @@ function Form() {
 
   return (
     <div className="form">
-      <div className="progressbar"></div>
       <div className="form-container">
         <div className="header text-8xl">
           <h1>{FormTitles[page]}</h1>
